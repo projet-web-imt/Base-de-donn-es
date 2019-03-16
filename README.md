@@ -1,4 +1,4 @@
-# Base-de-donnees
+# Database
 Contient les fichiers relatifs à la création de la base de données.
 
 	1 fichier 'Structure' pour la structure de la base.
